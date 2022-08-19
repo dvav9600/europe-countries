@@ -3,4 +3,3 @@ italy
 portugal
 russia
 norway
-spain
